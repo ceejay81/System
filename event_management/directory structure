@@ -1,0 +1,23 @@
+event_management/
+│
+├── assets/
+│   └── css/
+│       └── custom.css
+├── templates/
+│   ├── header.php
+│   ├── footer.php
+│   ├── teacher_dashboard.php
+│   ├── student_dashboard.php
+│   └── profile.php
+│
+├── db_connect.php
+├── functions.php
+├── register.php
+├── login.php
+├── create_event.php
+├── view_attendance.php
+├── enroll_student.php
+├── edit_profile.php
+├── record_attendance.php
+├── index.php
+└── logout.php
